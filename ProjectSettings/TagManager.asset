@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - attack
+  - turnip
+  - beetle
+  - ground
+  - seed
+  - start
+  - fight
+  - return
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - battleobject
+  - ground
+  - beetle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: object
+    uniqueID: 3114894851
+    locked: 0
+  - name: ground
+    uniqueID: 3315068613
+    locked: 0
+  - name: player
+    uniqueID: 3510224683
+    locked: 0
+  - name: beetle
+    uniqueID: 2214874901
+    locked: 0
+  - name: attack
+    uniqueID: 3202559263
+    locked: 0
